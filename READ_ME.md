@@ -22,7 +22,7 @@ The Digital Alarm Clock is a web-based application that allows users to set and 
 
 To use the Digital Alarm Clock, follow these steps:
 
-1. Clone the repository: `git clone `
+1. Clone the repository: `https://sunilmann77.github.io/digital_alarm_clock/ `
 2. Navigate to the project directory: `cd digital-alarm-clock`
 3. Open the index.html file in your preferred web browser.
 
